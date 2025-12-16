@@ -66,3 +66,4 @@ TrackER is a browser-based prototype that simulates an end‑to‑end emergency 
    - Doctor Portal → fourth.html
    - Discharge Summary → fifth.html
    - Feedback → sixth.html [attached_file:file:12][attached_file:file:20]
+   - The whole app is ready to use with interactive pages.
